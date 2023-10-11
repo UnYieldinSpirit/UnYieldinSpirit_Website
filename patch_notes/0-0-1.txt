@@ -1,0 +1,8 @@
+10/09/2023
+
+-Added the index.html file
+-Experimented with a few different tags: <p> <a> <img> <b> <strong> <title> <meta>
+-Learned about the body, head and the metadata
+-Created a git repository for everything
+
+I want to begin to move into lists and the like, but I definitely want to get into JS and CSS as soon as possible...
